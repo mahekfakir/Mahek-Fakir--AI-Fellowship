@@ -1,6 +1,6 @@
 🏠 Real Estate Dashboard — AICW Fellowship Project
 📘 Overview
-An AI-powered real estate analytics dashboard built using Microsoft Excel and Copilot.
+An AI-powered real estate analytics dashboard built using Microsoft Excel,PowerBI and Copilot.
 It analyzes 550 property records across 8 Indian cities (Feb 2024–Feb 2026) to visualize sales performance, agent productivity, and seasonal demand trends.
 
 🎯 Objectives
